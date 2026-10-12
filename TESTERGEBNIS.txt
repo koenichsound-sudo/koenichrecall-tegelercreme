@@ -1,0 +1,2 @@
+PASS: 12 parameters, all detents, exact physical labels, 0.2 steps, reversed Threshold, recall, invalid states, GUI synchronization, dynamic hover values, no selectors, Threshold left/right drags, mouse drags, switch positions, float/double bit-exact passthrough (1/2/8/64 channels, 44.1/48/96 kHz, IN and BYPASS).
+PASS: compiled VST3 scan, two instances, saved-state transfer, audio passthrough and native editor creation.
